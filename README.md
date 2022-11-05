@@ -22,5 +22,5 @@ nvim
 ```
 PackerInstall
 
+TSUpdate
 ```
-
