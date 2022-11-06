@@ -37,4 +37,5 @@ opt.splitbelow = true
 
 opt.iskeyword:append("-")
 
-
+opt.autoread = true
+opt.autowrite = true
