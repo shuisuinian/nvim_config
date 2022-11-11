@@ -1,7 +1,7 @@
-# macOs 
+# Step on macOS 
 
 
-## git clone
+## 1、 git clone
 
 ```
 git clone https://github.com/shuisuinian/nvim_config.git ~/.config/nvim
@@ -9,7 +9,7 @@ git clone https://github.com/shuisuinian/nvim_config.git ~/.config/nvim
 ```
 
 
-## install require deps
+## 2、install require deps
 
 
 
@@ -19,7 +19,7 @@ brew install ripgrep
 ```
 
 
-## open nvim
+## 3、open nvim
 
 
 ```
@@ -27,7 +27,7 @@ nvim
 
 ```
 
-## command mode
+## 4、command mode
 
 
 ```
