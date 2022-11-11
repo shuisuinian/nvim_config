@@ -1,4 +1,4 @@
-# Step on macOS 
+# steps on the macOS 
 
 
 ## 1、 git clone
